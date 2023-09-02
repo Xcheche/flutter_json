@@ -1,0 +1,85 @@
+
+[
+
+
+
+    {
+
+
+
+
+
+        "name": "Ebuka",
+        "age": "22",
+        "gender": "male",
+        "height": "172",
+        "hair_color": "black"
+    },
+
+    {
+
+
+
+
+
+        "name": "Uju",
+        "age": "26",
+        "gender": "female",
+        "height": "186",
+        "hair_color": "black"
+    },
+
+    {
+
+
+
+
+
+        "name": "John",
+        "age": "32",
+        "gender": "male",
+        "height": "182",
+        "hair_color": "black"
+    },
+
+
+    {
+
+
+
+
+
+        "name": "Mary",
+        "age": "19",
+        "gender": "female",
+        "height": "164",
+        "hair_color": "black"
+    },
+
+
+    {
+
+
+
+
+
+        "name": "David",
+        "age": "19",
+        "gender": "male",
+        "height": "194",
+        "hair_color": "black"
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+]
